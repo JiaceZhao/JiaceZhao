@@ -16,6 +16,11 @@
 - 🤖 Robotic Arm ARL Control: Adaptive Robust Learning Control with robotic arm(derived from Peng-Zhihui
 - 💻 Singularty Academy: Full-stack with React + TypeScript + Go + MySQL
 
+ConFidentials(Ongoing):
+  - project X
+  - project K
+  - project R
+
 
 
 ## 🛠️ Tech Stack
