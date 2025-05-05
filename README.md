@@ -3,6 +3,7 @@
 🎓 A high school student developer, product builder & tech enthusiast from China  
 🌍 Passionate about AI, iOS development, web engineering & algorithmic programming
 
+- junior student @Beijing Haidian Kaiwen Academy
 - Founder of the HackClub Beijing
 - CEO @Sigularity-Academy
 - CEO @Krypoto-Group
@@ -40,7 +41,7 @@ ConFidentials(Ongoing):
 
 ## 📫 Connect with me
 
-- ✉️ Email: krypotozhao@email.com  
+- ✉️ Email: krypotozhao@email.com  / 20240926005@hd.kaiwenacademy.cn
 - 🐙 GitHub: [@chrisdsasa](https://github.com/chrisdsasa)  
 - 💬 WeChat: KrypotozJ  
 - 🐦 X (Twitter): [@KrypotoZ](https://x.com/KrypotoZ)  
