@@ -13,7 +13,7 @@
 
 ## 🚀 Projects
 
-- **Agent** 
+- **Agent** in NeurIPS 2025
 - 🔧 [**MirrorChild**](https://github.com/jiacezhao/mirrorchild): AI iOS app helping seniors with digital clones of their children 👵🏻👨‍💻 (🏆 3rd place hackathon, $2000 prize)
 - 📱 [**ClickMood**](https://apps.apple.com/app/id...): Mood tracker app on App Store, 70+ users, 5⭐ rating
 - 💡 **AI Idea Capture App**: Turns your voice into structured startup ideas with OpenSAPI
