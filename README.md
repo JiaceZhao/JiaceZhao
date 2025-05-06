@@ -3,7 +3,6 @@
 🎓 A high school student developer, product builder & tech enthusiast from China  
 🌍 Passionate about AI, iOS development, web engineering & algorithmic programming
 
-- junior student @Beijing Haidian Kaiwen Academy
 - Founder of the HackClub Beijing
 - CEO @Sigularity-Academy
 - CEO @Krypoto-Group
