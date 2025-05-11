@@ -13,7 +13,7 @@
 ## 🏆 Achivements
 
 - Full scorer in Gold Division / Plantinum division coder @[**USACO**](https://usaco.org/)
-- Co-author of OSGym @[NuerIPS](https://neurips.cc/)
+- Co-author of OSGym @[NuerIPS](https://neurips.cc/)25
 
 ## 🚀 Projects
 
