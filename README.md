@@ -62,7 +62,7 @@
 
 📫 Connect with me
 
-- ✉️ Email: [krypotozhao@email.com](mailto:krypotozhao@email.com) / [20240926005@hd.kaiwenacademy.cn](mailto:20240926005@hd.kaiwenacademy.cn)
+- ✉️ Email: [krypotozhao@email.com](mailto:krypotozhao@email.com) / [20240926005@hd.kaiwenacademy.cn](mailto:20240926005@hd.kaiwenacademy.cn) / [20260@thisdl.cn](mailto:20240926005@hd.kaiwenacademy.cn)
 - 🐙 GitHub: [@chrisdsasa](https://github.com/chrisdsasa)
 - 💬 WeChat: KrypotozJ
 - 🐦 X (Twitter): [@KrypotoZ](https://x.com/KrypotoZ)
