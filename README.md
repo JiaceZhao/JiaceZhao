@@ -10,16 +10,17 @@
 
 ---
 
-## 🏆 Achivements
+## 🏆 Achivements / Research
 
 - Full scorer in Gold Division / Plantinum division coder @[**USACO**](https://usaco.org/)
 - Co-author of OSGym @[NuerIPS](https://neurips.cc/)25
+- Robotic Arm ARL Control: Adaptive Robust Learning Control with robotic arm(derived from Peng-Zhihui)
+
 
 ## 🚀 Projects
 
 - 🔧 [**MirrorChild**](https://github.com/jiacezhao/mirrorchild): AI iOS app helping seniors with digital clones of their children 👵🏻👨‍💻 (🏆 3rd place hackathon, $2000 prize)
 - 📱 [**ClickMood**](https://apps.apple.com/app/id...): Mood tracker app on App Store, 70+ users, 5⭐ rating
-- 🤖 Robotic Arm ARL Control: Adaptive Robust Learning Control with robotic arm(derived from Peng-Zhihui)
 - 💻 Singularty Academy: Full-stack with React + TypeScript + Go + MySQL
 - Other Web Designs @Krypoto Group
     - http://ai.krypoto.top/ : Thoughts On AI ethics
