@@ -13,7 +13,7 @@
 ## 🏆 Achivements / Research
 
 - Full scorer in Gold Division / Plantinum division coder @[**USACO**](https://usaco.org/)
-- Co-author of OSGym @[NuerIPS](https://neurips.cc/)25
+- Co-author of OSGym @[NeurIPS 2025](https://neurips.cc/)
 - Robotic Arm ARL Control: Adaptive Robust Learning Control with robotic arm(derived from Peng-Zhihui)
 
 
