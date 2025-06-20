@@ -7,13 +7,14 @@
 - Founder of the HackClub Beijing
 - CEO @Sigularity-Academy
 - CEO @Krypoto-Group
+- Dev @AdventureX
 
 ---
 
 ## 🏆 Achivements / Research
 
 - Full scorer in Gold Division / Plantinum division coder @[**USACO**](https://usaco.org/)
-- Co-author of OSGym @[NeurIPS 2025](https://neurips.cc/)
+- Co-author of MIT OSGym @[NeurIPS 2025](https://neurips.cc/) (Under Review) 
 - Robotic Arm ARL Control: Adaptive Robust Learning Control with robotic arm(derived from Peng-Zhihui)
 
 
@@ -32,10 +33,6 @@
 - Blog : https://chrisdsasa.github.io/
 - Hardware + PCB Design Project:
     - 
-
-### ConFidentials(Ongoing):
-
-- 💡 **AI Idea Capture App**: Turns your voice into structured startup ideas with OpenSAPI
 
 ## 🛠️ Tech Stack
 
