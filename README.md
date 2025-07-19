@@ -5,10 +5,8 @@
 🌍 Passionate about AI, iOS development, web engineering & algorithmic programming
 
 - Founder of the HackClub Beijing
-- CEO @Sigularity-Academy
-- CEO @Krypoto-Group
-- Dev @AdventureX
-
+- CEO @Sigularity-Academy https://www.sacademe.org/
+- CEO @Krypoto-Group 
 ---
 
 ## 🏆 Achivements / Research
@@ -32,7 +30,7 @@
     - etc.
 - Blog : https://chrisdsasa.github.io/
 - Hardware + PCB Design Project:
-    - 
+- Outlier Project for AdventureX.
 
 ## 🛠️ Tech Stack
 
