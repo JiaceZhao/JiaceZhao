@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jiace Zhao (krypoto)
 
-Ἡ ψυχὴ τῶν παθῶν ἀπαθής.
+“Μηδὲν τῇ ψυχῇ συμβαίνει παρὰ φύσιν.”
 
 🎓 A high school student developer, product builder & tech enthusiast from China
 
