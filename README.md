@@ -1,5 +1,7 @@
 # Hi 👋, I'm Jiace Zhao (krypoto)
 
+Ἡ ψυχὴ τῶν παθῶν ἀπαθής.
+
 🎓 A high school student developer, product builder & tech enthusiast from China
 
 🌍 Passionate about AI, iOS development, web engineering & algorithmic programming
