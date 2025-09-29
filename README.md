@@ -21,7 +21,7 @@
 ## 🚀 Projects
 
 - 🔧 [**MirrorChild**](https://github.com/jiacezhao/mirrorchild): AI iOS app helping seniors with digital clones of their children 👵🏻👨‍💻 (🏆 3rd place hackathon, $2000 prize)
-- 📱 [**ClickMood**](https://apps.apple.com/app/id...): Mood tracker app on App Store, 70+ users, 5⭐ rating
+- 📱 [**ClickMood**](https://apps.apple.com/app/id...): FREE Mood tracker app on App Store, 280+ users, 5⭐ rating
 - 💻 Singularty Academy: Full-stack with React + TypeScript + Go + MySQL
 - Other Web Designs @Krypoto Group
     - http://ai.krypoto.top/ : Thoughts On AI ethics
