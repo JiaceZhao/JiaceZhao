@@ -8,7 +8,7 @@
 
 - Founder of the HackClub Beijing
 - CEO @Sigularity-Academy https://www.sacademe.org/
-- CEO @Krypoto-Group 
+- CEO @Krypoto-Group
 ---
 
 ## 🏆 Achivements / Research
@@ -16,6 +16,7 @@
 - Full scorer in Gold Division / Plantinum division coder @[**USACO**](https://usaco.org/)
 - Co-author of MIT OSGym @[NeurIPS 2025](https://neurips.cc/) (Under Review) 
 - Robotic Arm ARL Control: Adaptive Robust Learning Control with robotic arm(derived from Peng-Zhihui)
+- Google Scholar: https://scholar.google.com/citations?hl=en&user=FLmG3JYAAAAJ
 
 
 ## 🚀 Projects
