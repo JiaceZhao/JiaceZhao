@@ -2,7 +2,7 @@
 
 “Μηδὲν τῇ ψυχῇ συμβαίνει παρὰ φύσιν.”
 
-🎓 A high school student developer, product builder & tech enthusiast from China
+🎓 A high school student developer, EduTech product builder & tech enthusiast from China
 
 🌍 Passionate about AI, iOS development, web engineering & algorithmic programming
 
