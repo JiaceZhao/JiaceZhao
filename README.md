@@ -39,5 +39,5 @@ I am willing to talk to you!!! Appoint a quick meeting with me using Calendly : 
 
 ---
 
-> “Code is not just logic — it’s a language to connect imagination and people.”
+> “Coding is fun I guess?”
 >
