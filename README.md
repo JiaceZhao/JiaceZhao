@@ -1,43 +1,51 @@
-# Hi 👋, I'm Jiace Zhao (krypoto)
+# Hi, I'm Jiace Zhao 👋
 
-🎓 A high school student developer, EduTech product builder & tech enthusiast from China
+<p align="center">
+  <a href="https://www.jc-zhao.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=760&lines=I+build+systems+that+perceive%2C+reason%2C+and+act.;Embodied+AI+%C2%B7+Robotics+%C2%B7+Learning+Systems;From+research+questions+to+things+people+can+use." alt="Typing animation" />
+  </a>
+</p>
 
-🌍 Passionate about AI, iOS development, web engineering & algorithmic programming
+<p align="center">
+  Incoming undergraduate at <a href="https://www.berkeley.edu/">UC Berkeley</a> · robotics builder · AI product maker
+</p>
 
-## 🛠️ Tech Stack
+I’m interested in **embodied AI**, **computer-using agents**, **reinforcement learning**, and **robot control**. I enjoy working across the stack—from hardware and control loops to data pipelines and user-facing products.
 
-[](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
+## Selected projects
 
-[](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+### 🤖 [Adaptive 6-DOF Robotic Arm](https://www.jc-zhao.com/projects/adaptive-robotic-arm)
 
-[](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+Built a low-cost robotic arm with custom motor-control PCBs, CAN communication, ROS integration, depth-camera perception, and YOLOv10 object detection. Developed Adaptive Robust Learning Control, achieving **55.39% lower tracking RMSE than PID** and **0.98 mAP@0.5**.
 
-[](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+### 🧠 [Clingword](https://next.clingword.com/)
 
-[](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+Co-founded a vocabulary-learning product that uses reinforcement-learning signals to personalize new-word recommendations and review timing. Reached **20,000+ users in under two months**.
 
-[](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+### ✦ [sacademe.org](https://sacademe.org/)
 
-[](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+Built an AI learning platform that turns difficult concepts into interactive visual explanations. Founder across product definition, AI behavior, front-end engineering, and learning-experience design.
 
-[](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+### 🖱️ [ClickMood](https://www.jc-zhao.com/projects/clickmood)
 
-[](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+Designed and shipped a quiet AI mood journal for lightweight daily reflection and pattern discovery.
 
-[](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
+### 🧪 [OSGym](https://arxiv.org/html/2511.11672v5)
 
----
+Co-authored work on a distributed data engine for training computer-using agents, contributing to task generation, trajectory pruning, and training-data pipelines.
 
-📫 Connect with me
+## Currently thinking about
 
-I am willing to talk to you!!! Appoint a quick meeting with me using Calendly : https://calendly.com/krypotozhao/15min-quick-meeting 
-- ✉️ Email: [krypotozhao@gmail.com](mailto:krypotozhao@gmail.com) 
-- 🐙 GitHub: [@chrisdsasa](https://github.com/chrisdsasa)
-- 💬 WeChat: KrypotozJ
-- 🐦 X (Twitter): [@KrypotoZ](https://x.com/KrypotoZ)
-- 🌐 Website: https://www.jczhao.info/about
+```text
+How can intelligent systems become more grounded in the real world?
+```
 
----
+<p align="center">
+  <a href="https://www.jc-zhao.com/"><img src="https://img.shields.io/badge/Portfolio-jc--zhao.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=FLmG3JYAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Research-111827?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="mailto:jiace_zhao@berkeley.edu"><img src="https://img.shields.io/badge/Email-Say%20hi-E11D48?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-> “Coding is fun I guess?”
->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=90&section=footer" alt="Animated gradient footer" />
+</p>
